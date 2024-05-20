@@ -59,9 +59,9 @@ class UserRegistrationViewTestCase(TestCase):
     def setUp(self):
         self.data = {
             'first_name': 'Александр',
-            'last_name': 'Раздымахо',
-            'username': 'pavlechenk',
-            'email': 'pavlechenk@gmail.com',
+            'last_name': 'Пушкин',
+            'username': 'redkorrrr',
+            'email': 'redkored@gmail.com',
             'password1': 'A888rz08',
             'password2': 'A888rz08',
         }
